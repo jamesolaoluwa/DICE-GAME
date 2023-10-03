@@ -47,10 +47,3 @@ Player One wins
 
 Overall Winner: Player One is the overall winner by 21 points
 ```
-
-## Note
-
-- This script is a basic implementation of a dice rolling game and can be customized or extended as needed.
-- The game can be modified to include more players, different scoring rules, or additional features.
-
-Feel free to use, modify, and improve this script for your own entertainment or educational purposes.
